@@ -30,7 +30,7 @@ All sensitive values (name, email, paths) are provided **via prompts** at runtim
       - [Security & privacy](#security--privacy)
       - [Limitations / Notes](#limitations--notes)
       - [Troubleshooting](#troubleshooting)
-    - [Want to manually set up your git and GitHub configurations?](#want-to-manually-set-up-your-git-and-github-configurations)
+  - [Want to manually set up your git and GitHub configurations?](#want-to-manually-set-up-your-git-and-github-configurations)
 
 ---
 
@@ -338,7 +338,7 @@ cd <repo-directory>
 
 ---
 
-### Want to manually set up your git and GitHub configurations?
+## Want to manually set up your git and GitHub configurations?
 
 Learn how below:
 
